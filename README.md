@@ -9,7 +9,6 @@ Follow these instructions to build, run, and test the LavaTube puzzle solution.
 ### Prerequisites
 
 - [.NET SDK](https://dotnet.microsoft.com/download) (version 5.0 or higher) must be installed.
-- 
 
 ## Clone this repository
 
