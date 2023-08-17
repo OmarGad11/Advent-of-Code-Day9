@@ -39,7 +39,7 @@ To run the unit tests for the LavaTube puzzle solver, navigate to the LavaTube.T
 cd LavaTube.Tests
 dotnet test
 ````
-#Important Code Functions
+##Important Code Functions
 ###Here are some important code functions and classes in the project:
 
 ##PuzzleSolution
