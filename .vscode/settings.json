@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "lavatube.sln",
+    "cmake.configureOnOpen": true,
+    "dotnet-test-explorer.testProjectPath": "lavatube.csproj"
+}
