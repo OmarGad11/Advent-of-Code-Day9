@@ -29,27 +29,28 @@ To display the algorithm output, execute the following command:
 ```bash
 dotnet run HeightMap.txt (or any other file path contains the desired input)
 ````
-##Expected output
+## Expected output
 Risk level sum: ...
 Largest basins product: ...
 
-##Running Unit test 
+## Running Unit test 
 To run the unit tests for the LavaTube puzzle solver, navigate to the LavaTube.Tests directory to run the tests. To do that execute the following commands:
 ```Bash
 cd LavaTube.Tests
 dotnet test
 ````
-##Important Code Functions
-###Here are some important code functions and classes in the project:
+# Important Code Functions
+### Here are some important code functions and classes in the project:
 
-##PuzzleSolution
+## PuzzleSolution
 The PuzzleSolution class is responsible for solving the LavaTube puzzle. It processes the height map, finds low points, calculates risk levels, and determines the largest basins.
 
-##FindBasins()
+## FindBasins()
 This method in the PuzzleSolution class uses a breadth-first search (BFS) approach to find basins and their sizes. It starts from each low point and explores adjacent cells with heights greater than or equal to the current cell's height.
 
-##GetRiskLevelSum()
+## GetRiskLevelSum()
 This method calculates the risk level sum by iterating through the low points and adding the current cell's value plus one to the sum.
 
-##GetNeighbors(int row, int col)
+## GetNeighbors(int row, int col)
+
 This method returns a list of neighboring cell values for a given row and column. It is used to calculate the neighbors' values for each cell.
