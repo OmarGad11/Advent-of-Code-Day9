@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gad 2.0\\Gadagido docs\\LavaTube\\LavaTube.csproj": {}
+    "D:\\Gad 2.0\\Gadagido docs\\lavatube\\LavaTube.csproj": {}
   },
   "projects": {
-    "D:\\Gad 2.0\\Gadagido docs\\LavaTube\\LavaTube.csproj": {
+    "D:\\Gad 2.0\\Gadagido docs\\lavatube\\LavaTube.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gad 2.0\\Gadagido docs\\LavaTube\\LavaTube.csproj",
+        "projectUniqueName": "D:\\Gad 2.0\\Gadagido docs\\lavatube\\LavaTube.csproj",
         "projectName": "LavaTube",
-        "projectPath": "D:\\Gad 2.0\\Gadagido docs\\LavaTube\\LavaTube.csproj",
+        "projectPath": "D:\\Gad 2.0\\Gadagido docs\\lavatube\\LavaTube.csproj",
         "packagesPath": "C:\\Users\\omarg\\.nuget\\packages\\",
-        "outputPath": "D:\\Gad 2.0\\Gadagido docs\\LavaTube\\obj\\",
+        "outputPath": "D:\\Gad 2.0\\Gadagido docs\\lavatube\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omarg\\AppData\\Roaming\\NuGet\\NuGet.Config"
