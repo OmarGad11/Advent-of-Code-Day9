@@ -6,7 +6,12 @@ namespace LavaTube
     {
         static void Main(string[] args)
         {
-            string file_path = "puzzle input.txt";
+            string file_path = args[0];
+            if (args.Length != 1)
+            {
+                Console.WriteLine("Usage: dotnet run <file_path>");
+                return;
+            }
             List<List<int>> height_map = ReadHeighMap(file_path);
             PuzzleSolution solution = new PuzzleSolution(height_map);
             int risk_level_sum = solution.GetRiskLevelSum();

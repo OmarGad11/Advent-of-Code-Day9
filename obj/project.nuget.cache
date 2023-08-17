@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QjznwoeOEL4R4TIBDeaFDNBBypdPtEHG7LoNO7ezV4jsgfmq4pXopL1uGQSuKmlIAPzDY9ubNf9jM0pGTCdmlQ==",
+  "dgSpecHash": "jDXp4RnvXsSGUn5ay0YjQaL3MvXv6pf+LVDmMe7Yfb8AvTNTWu39/3Ju5i0MFxRWyKaHjh+gEOmos8hZSeWshA==",
   "success": true,
-  "projectFilePath": "d:\\Gad 2.0\\Gadagido docs\\lavatube\\LavaTube.csproj",
+  "projectFilePath": "D:\\Gad 2.0\\Gadagido docs\\LavaTube\\LavaTube.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omarg\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\omarg\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
